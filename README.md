@@ -11,4 +11,5 @@ once in you will be greeted and prompted with a menu with various options either
 - view my tasks
 - exit
 - statistics
+
 this program is very straight forward and easy to use
